@@ -1,0 +1,8 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <shortcuts>
+        <src>keymap.xml</src>
+        <layout name="Windows" display-name="Windows"/>
+        <layout name="macOS" display-name="macOS"/>
+    </shortcuts>
+</buildprofiles>

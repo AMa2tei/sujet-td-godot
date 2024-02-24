@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                 start-page="Création-du-projet.md">
+
+    <toc-element topic="Création-du-projet.md"/>
+    <toc-element topic="Organisation-des-fichiers-du-projet.md"/>
+    <toc-element topic="Résolution-d-écrans-et-rendu.md"/>
+    <toc-element topic="Scènes-principales.md"/>
+    <toc-element topic="Point-d’apparition-du-personnage.md"/>
+    <toc-element topic="Déplacement-du-joueur.md"/>
+    <toc-element topic="Animations-du-personnage.md"/>
+    <toc-element topic="Création-du-niveau.md"/>
+</instance-profile>
